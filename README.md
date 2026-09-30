@@ -1,2 +1,2 @@
 # Stochastic-Vanguard-Releases
-Public Windows downloads and signed updater metadata for Alpha Trades
+Created by THEEDYNASTY 345. enjoy 
